@@ -63,7 +63,7 @@ Non-negative Matrix Factorization (NMF). This project separates two sources from
 
 <hr/>
 
-<h2>📊 Example Output</h2>
+<h2>📊 Output</h2>
 
 <p>The script will save audio and a spectrogram image:</p>
 
