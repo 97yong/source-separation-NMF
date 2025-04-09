@@ -79,3 +79,10 @@ outputs/
 </p>
 
 <hr/>
+
+## 📚 Reference
+
+Lee, Daniel D., and H. Sebastian Seung.  
+<em>"Learning the parts of objects by non-negative matrix factorization."</em>  
+<strong>Nature</strong> 401.6755 (1999): 788–791.  
+🔗 [DOI: 10.1038/44565](https://doi.org/10.1038/44565)
