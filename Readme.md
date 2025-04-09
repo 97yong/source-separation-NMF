@@ -29,10 +29,10 @@ Non-negative Matrix Factorization (NMF). This project separates two sources from
 
 <h2>🚀 How to Run</h2>
 
-<pre><code>pip install numpy librosa soundfile scikit-learn matplotlib tqdm
+<pre><code>pip install numpy librosa soundfile scikit-learn matplotlib
 </code></pre>
 
-<pre><code>python main.py --save_audio --plot_spectrogram --eval_sdr
+<pre><code>python main.py
 </code></pre>
 
 <hr/>
