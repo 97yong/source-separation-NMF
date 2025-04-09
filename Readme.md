@@ -79,12 +79,3 @@ outputs/
 </p>
 
 <hr/>
-
-<h2>💡 To-Do Ideas</h2>
-<ul>
-  <li>Add supervised mask learning</li>
-  <li>Batch processing for large datasets</li>
-  <li>Colab / Streamlit demo</li>
-</ul>
-
-<hr/>
