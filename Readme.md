@@ -11,7 +11,7 @@ Non-negative Matrix Factorization (NMF). This project separates two sources from
 
 <pre>
 .
-├── main.py                      # Main script
+├── main.py                     # Main script
 ├── source_separation.py        # NMF dictionary & separation
 ├── arguments.py                # CLI arguments
 ├── data_loader.py              # Audio loading
